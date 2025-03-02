@@ -37,7 +37,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2300A859.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801402137432)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-dodi/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayhanDodi)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rayhan-Dodi)  
 
 ---
 
