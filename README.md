@@ -83,9 +83,9 @@ I'm constantly pushing the boundaries of AI/ML:
 
 I'd love to collaborate on AI/ML projects or discuss data science ideas!
 
-- 💼 [LinkedIn](#) - *Add your profile link*
+- 💼 [LinkedIn](#) - *(https://www.linkedin.com/in/rayhan-dodi/)*
 - 🐦 [Twitter](#) - *Add your profile link*
-- 📧 Email - *Add your email address*
+- 📧 Email - *md.dody123@gmail.com*
 
 ---
 
